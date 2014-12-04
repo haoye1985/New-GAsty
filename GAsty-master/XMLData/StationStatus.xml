@@ -1,0 +1,2175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStationStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://webservices.lul.co.uk/">
+  <StationStatus ID="1" StatusDetails="">
+    <Station ID="1" Name="Acton Town" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="2" StatusDetails="">
+    <Station ID="2" Name="Aldgate" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="3" StatusDetails="">
+    <Station ID="3" Name="Aldgate East" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="4" StatusDetails="">
+    <Station ID="4" Name="Alperton" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="5" StatusDetails="">
+    <Station ID="5" Name="Amersham" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="6" StatusDetails="">
+    <Station ID="6" Name="Angel" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="7" StatusDetails="">
+    <Station ID="7" Name="Archway" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="8" StatusDetails="">
+    <Station ID="8" Name="Arnos Grove" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="9" StatusDetails="">
+    <Station ID="9" Name="Arsenal" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="10" StatusDetails="">
+    <Station ID="10" Name="Baker Street" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="11" StatusDetails="">
+    <Station ID="11" Name="Balham" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="12" StatusDetails="">
+    <Station ID="12" Name="Bank" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="13" StatusDetails="">
+    <Station ID="13" Name="Barbican" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="14" StatusDetails="">
+    <Station ID="14" Name="Barking" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="15" StatusDetails="">
+    <Station ID="15" Name="Barkingside" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="16" StatusDetails="">
+    <Station ID="16" Name="Barons Court" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="17" StatusDetails="">
+    <Station ID="17" Name="Bayswater" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="18" StatusDetails="">
+    <Station ID="18" Name="Becontree" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="19" StatusDetails="">
+    <Station ID="19" Name="Belsize Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="20" StatusDetails="">
+    <Station ID="20" Name="Bermondsey" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="21" StatusDetails="">
+    <Station ID="21" Name="Bethnal Green" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="22" StatusDetails="">
+    <Station ID="22" Name="Blackfriars" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="23" StatusDetails="">
+    <Station ID="23" Name="Blackhorse Road" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="24" StatusDetails="The Jubilee line is not serving this station while station upgrade work takes place. ">
+    <Station ID="24" Name="Bond Street" />
+    <Status ID="PD" CssClass="DisruptedService" Description="Part Closed" IsActive="true">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="25" StatusDetails="">
+    <Station ID="25" Name="Borough" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="26" StatusDetails="">
+    <Station ID="26" Name="Boston Manor" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="27" StatusDetails="">
+    <Station ID="27" Name="Bounds Green" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="28" StatusDetails="">
+    <Station ID="28" Name="Bow Road" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="29" StatusDetails="">
+    <Station ID="29" Name="Brent Cross" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="30" StatusDetails="">
+    <Station ID="30" Name="Brixton" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="31" StatusDetails="">
+    <Station ID="31" Name="Bromley-by-Bow" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="32" StatusDetails="">
+    <Station ID="32" Name="Buckhurst Hill" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="33" StatusDetails="">
+    <Station ID="33" Name="Burnt Oak" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="34" StatusDetails="">
+    <Station ID="34" Name="Caledonian Road" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="35" StatusDetails="">
+    <Station ID="35" Name="Camden Town" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="36" StatusDetails="">
+    <Station ID="36" Name="Canada Water" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="37" StatusDetails="">
+    <Station ID="37" Name="Canary Wharf" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="38" StatusDetails="">
+    <Station ID="38" Name="Canning Town" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="39" StatusDetails="">
+    <Station ID="39" Name="Cannon Street" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="40" StatusDetails="">
+    <Station ID="40" Name="Canons Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="41" StatusDetails="">
+    <Station ID="41" Name="Chalfont &amp; Latimer" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="42" StatusDetails="">
+    <Station ID="42" Name="Chalk Farm" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="43" StatusDetails="">
+    <Station ID="43" Name="Chancery Lane" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="44" StatusDetails="">
+    <Station ID="44" Name="Charing Cross" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="45" StatusDetails="">
+    <Station ID="45" Name="Chesham" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="46" StatusDetails="">
+    <Station ID="46" Name="Chigwell" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="47" StatusDetails="">
+    <Station ID="47" Name="Chiswick Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="48" StatusDetails="">
+    <Station ID="48" Name="Chorleywood" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="49" StatusDetails="">
+    <Station ID="49" Name="Clapham Common" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="50" StatusDetails="">
+    <Station ID="50" Name="Clapham North" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="51" StatusDetails="">
+    <Station ID="51" Name="Clapham South" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="52" StatusDetails="">
+    <Station ID="52" Name="Cockfosters" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="53" StatusDetails="">
+    <Station ID="53" Name="Colindale" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="54" StatusDetails="">
+    <Station ID="54" Name="Colliers Wood" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="55" StatusDetails="">
+    <Station ID="55" Name="Covent Garden" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="56" StatusDetails="">
+    <Station ID="56" Name="Croxley" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="57" StatusDetails="">
+    <Station ID="57" Name="Dagenham East" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="58" StatusDetails="">
+    <Station ID="58" Name="Dagenham Heathway" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="59" StatusDetails="">
+    <Station ID="59" Name="Debden" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="60" StatusDetails="">
+    <Station ID="60" Name="Dollis Hill" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="61" StatusDetails="">
+    <Station ID="61" Name="Ealing Broadway" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="62" StatusDetails="">
+    <Station ID="62" Name="Ealing Common" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="63" StatusDetails="">
+    <Station ID="63" Name="Earl's Court" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="64" StatusDetails="">
+    <Station ID="64" Name="East Acton" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="65" StatusDetails="">
+    <Station ID="65" Name="East Finchley" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="66" StatusDetails="">
+    <Station ID="66" Name="East Ham" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="67" StatusDetails="">
+    <Station ID="67" Name="East Putney" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="68" StatusDetails="">
+    <Station ID="68" Name="Eastcote" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="69" StatusDetails="">
+    <Station ID="69" Name="Edgware" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="70" StatusDetails="">
+    <Station ID="70" Name="Edgware Road (Bak)" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="71" StatusDetails="">
+    <Station ID="71" Name="Edgware Road" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="72" StatusDetails="">
+    <Station ID="72" Name="Elephant &amp; Castle" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="73" StatusDetails="">
+    <Station ID="73" Name="Elm Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="74" StatusDetails="The Bakerloo and Northern lines are not serving this station while upgrade work takes place. Please use nearby Charing Cross for the Bakerloo and Northern lines.">
+    <Station ID="74" Name="Embankment" />
+    <Status ID="PD" CssClass="DisruptedService" Description="Part Closed" IsActive="true">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="74" StatusDetails="The Bakerloo and Northern lines are not serving this station while upgrade work takes place. Please use nearby Charing Cross for the Bakerloo and Northern lines.">
+    <Station ID="74" Name="Embankment" />
+    <Status ID="PD" CssClass="DisruptedService" Description="Part Closed" IsActive="true">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="75" StatusDetails="">
+    <Station ID="75" Name="Epping" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="76" StatusDetails="">
+    <Station ID="76" Name="Euston" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="77" StatusDetails="">
+    <Station ID="77" Name="Euston Square" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="78" StatusDetails="">
+    <Station ID="78" Name="Fairlop" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="79" StatusDetails="">
+    <Station ID="79" Name="Farringdon" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="80" StatusDetails="">
+    <Station ID="80" Name="Finchley Central" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="81" StatusDetails="">
+    <Station ID="81" Name="Finchley Road" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="82" StatusDetails="">
+    <Station ID="82" Name="Finsbury Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="83" StatusDetails="">
+    <Station ID="83" Name="Fulham Broadway" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="84" StatusDetails="">
+    <Station ID="84" Name="Gants Hill" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="85" StatusDetails="The Piccadilly line is not serving this station while upgrade work takes place. ">
+    <Station ID="85" Name="Gloucester Road" />
+    <Status ID="PD" CssClass="DisruptedService" Description="Part Closed" IsActive="true">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="86" StatusDetails="">
+    <Station ID="86" Name="Golders Green" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="87" StatusDetails="">
+    <Station ID="87" Name="Goldhawk Road" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="88" StatusDetails="">
+    <Station ID="88" Name="Goodge Street" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="89" StatusDetails="">
+    <Station ID="89" Name="Grange Hill" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="90" StatusDetails="">
+    <Station ID="90" Name="Great Portland Street" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="91" StatusDetails="">
+    <Station ID="91" Name="Green Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="92" StatusDetails="">
+    <Station ID="92" Name="Greenford" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="93" StatusDetails="">
+    <Station ID="93" Name="Gunnersbury" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="94" StatusDetails="">
+    <Station ID="94" Name="Hainault" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="95" StatusDetails="">
+    <Station ID="95" Name="Hammersmith" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="96" StatusDetails="">
+    <Station ID="96" Name="Hammersmith (H&amp;C)" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="97" StatusDetails="">
+    <Station ID="97" Name="Hampstead" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="98" StatusDetails="">
+    <Station ID="98" Name="Hanger Lane" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="99" StatusDetails="">
+    <Station ID="99" Name="Harlesden" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="100" StatusDetails="">
+    <Station ID="100" Name="Harrow &amp; Wealdstone" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="101" StatusDetails="">
+    <Station ID="101" Name="Harrow-on-the-Hill" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="102" StatusDetails="">
+    <Station ID="102" Name="Hatton Cross" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="103" StatusDetails="">
+    <Station ID="103" Name="Heathrow Terminal 4" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="104" StatusDetails="">
+    <Station ID="104" Name="Heathrow Terminals 123" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="105" StatusDetails="">
+    <Station ID="105" Name="Hendon Central" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="106" StatusDetails="">
+    <Station ID="106" Name="High Barnet" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="107" StatusDetails="">
+    <Station ID="107" Name="High Street Kensington" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="108" StatusDetails="">
+    <Station ID="108" Name="Highbury &amp; Islington" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="109" StatusDetails="">
+    <Station ID="109" Name="Highgate" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="110" StatusDetails="">
+    <Station ID="110" Name="Hillingdon" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="111" StatusDetails="">
+    <Station ID="111" Name="Holborn" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="112" StatusDetails="">
+    <Station ID="112" Name="Holland Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="113" StatusDetails="">
+    <Station ID="113" Name="Holloway Road" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="114" StatusDetails="">
+    <Station ID="114" Name="Hornchurch" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="115" StatusDetails="">
+    <Station ID="115" Name="Hounslow Central" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="116" StatusDetails="">
+    <Station ID="116" Name="Hounslow East" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="117" StatusDetails="">
+    <Station ID="117" Name="Hounslow West" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="118" StatusDetails="">
+    <Station ID="118" Name="Hyde Park Corner" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="119" StatusDetails="">
+    <Station ID="119" Name="Ickenham" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="120" StatusDetails="">
+    <Station ID="120" Name="Kennington" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="121" StatusDetails="">
+    <Station ID="121" Name="Kensal Green" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="122" StatusDetails="">
+    <Station ID="122" Name="Kensington (Olympia)" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="123" StatusDetails="">
+    <Station ID="123" Name="Kentish Town" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="124" StatusDetails="">
+    <Station ID="124" Name="Kenton" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="125" StatusDetails="">
+    <Station ID="125" Name="Kew Gardens" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="126" StatusDetails="">
+    <Station ID="126" Name="Kilburn" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="127" StatusDetails="">
+    <Station ID="127" Name="Kilburn Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="128" StatusDetails="">
+    <Station ID="128" Name="King's Cross St. Pancras" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="129" StatusDetails="">
+    <Station ID="129" Name="Kingsbury" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="130" StatusDetails="">
+    <Station ID="130" Name="Knightsbridge" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="131" StatusDetails="">
+    <Station ID="131" Name="Ladbroke Grove" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="132" StatusDetails="">
+    <Station ID="132" Name="Lambeth North" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="133" StatusDetails="">
+    <Station ID="133" Name="Lancaster Gate" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="134" StatusDetails="Eastbound trains only are not serving this station while upgrade work takes place. ">
+    <Station ID="134" Name="Latimer Road" />
+    <Status ID="PD" CssClass="DisruptedService" Description="Part Closed" IsActive="true">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="135" StatusDetails="">
+    <Station ID="135" Name="Leicester Square" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="136" StatusDetails="">
+    <Station ID="136" Name="Leyton" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="137" StatusDetails="">
+    <Station ID="137" Name="Leytonstone" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="138" StatusDetails="">
+    <Station ID="138" Name="Liverpool Street" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="139" StatusDetails="">
+    <Station ID="139" Name="London Bridge" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="140" StatusDetails="">
+    <Station ID="140" Name="Loughton" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="141" StatusDetails="">
+    <Station ID="141" Name="Maida Vale" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="142" StatusDetails="">
+    <Station ID="142" Name="Manor House" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="143" StatusDetails="">
+    <Station ID="143" Name="Mansion House" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="144" StatusDetails="">
+    <Station ID="144" Name="Marble Arch" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="145" StatusDetails="">
+    <Station ID="145" Name="Marylebone" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="146" StatusDetails="">
+    <Station ID="146" Name="Mile End" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="147" StatusDetails="">
+    <Station ID="147" Name="Mill Hill East" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="148" StatusDetails="">
+    <Station ID="148" Name="Monument" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="149" StatusDetails="">
+    <Station ID="149" Name="Moor Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="150" StatusDetails="">
+    <Station ID="150" Name="Moorgate" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="151" StatusDetails="Step free exit is not available to street level while we fix a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.">
+    <Station ID="151" Name="Morden" />
+    <Status ID="NS" CssClass="Closed" Description="No Step Free Access" IsActive="true">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="152" StatusDetails="">
+    <Station ID="152" Name="Mornington Crescent" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="153" StatusDetails="">
+    <Station ID="153" Name="Neasden" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="156" StatusDetails="">
+    <Station ID="156" Name="Newbury Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="157" StatusDetails="">
+    <Station ID="157" Name="North Acton" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="158" StatusDetails="">
+    <Station ID="158" Name="North Ealing" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="159" StatusDetails="">
+    <Station ID="159" Name="North Greenwich" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="160" StatusDetails="">
+    <Station ID="160" Name="North Harrow" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="161" StatusDetails="">
+    <Station ID="161" Name="North Wembley" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="162" StatusDetails="">
+    <Station ID="162" Name="Northfields" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="163" StatusDetails="">
+    <Station ID="163" Name="Northolt" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="164" StatusDetails="">
+    <Station ID="164" Name="Northwick Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="165" StatusDetails="">
+    <Station ID="165" Name="Northwood" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="166" StatusDetails="">
+    <Station ID="166" Name="Northwood Hills" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="167" StatusDetails="">
+    <Station ID="167" Name="Notting Hill Gate" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="168" StatusDetails="">
+    <Station ID="168" Name="Oakwood" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="169" StatusDetails="">
+    <Station ID="169" Name="Old Street" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="170" StatusDetails="">
+    <Station ID="170" Name="Osterley" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="171" StatusDetails="">
+    <Station ID="171" Name="Oval" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="172" StatusDetails="">
+    <Station ID="172" Name="Oxford Circus" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="173" StatusDetails="">
+    <Station ID="173" Name="Paddington" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="174" StatusDetails="">
+    <Station ID="174" Name="Park Royal" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="175" StatusDetails="">
+    <Station ID="175" Name="Parsons Green" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="176" StatusDetails="">
+    <Station ID="176" Name="Perivale" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="177" StatusDetails="">
+    <Station ID="177" Name="Piccadilly Circus" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="178" StatusDetails="">
+    <Station ID="178" Name="Pimlico" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="179" StatusDetails="">
+    <Station ID="179" Name="Pinner" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="180" StatusDetails="">
+    <Station ID="180" Name="Plaistow" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="181" StatusDetails="">
+    <Station ID="181" Name="Preston Road" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="182" StatusDetails="">
+    <Station ID="182" Name="Putney Bridge" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="183" StatusDetails="">
+    <Station ID="183" Name="Queen's Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="184" StatusDetails="">
+    <Station ID="184" Name="Queensbury" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="185" StatusDetails="">
+    <Station ID="185" Name="Queensway" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="186" StatusDetails="">
+    <Station ID="186" Name="Ravenscourt Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="187" StatusDetails="">
+    <Station ID="187" Name="Rayners Lane" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="188" StatusDetails="">
+    <Station ID="188" Name="Redbridge" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="189" StatusDetails="">
+    <Station ID="189" Name="Regent's Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="190" StatusDetails="">
+    <Station ID="190" Name="Richmond" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="191" StatusDetails="">
+    <Station ID="191" Name="Rickmansworth" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="192" StatusDetails="">
+    <Station ID="192" Name="Roding Valley" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="194" StatusDetails="">
+    <Station ID="194" Name="Royal Oak" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="195" StatusDetails="">
+    <Station ID="195" Name="Ruislip" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="196" StatusDetails="">
+    <Station ID="196" Name="Ruislip Gardens" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="197" StatusDetails="">
+    <Station ID="197" Name="Ruislip Manor" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="198" StatusDetails="">
+    <Station ID="198" Name="Russell Square" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="199" StatusDetails="">
+    <Station ID="199" Name="Seven Sisters" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="201" StatusDetails="">
+    <Station ID="201" Name="Shepherd's Bush" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="202" StatusDetails="">
+    <Station ID="202" Name="Shepherds Bush Market" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="204" StatusDetails="">
+    <Station ID="204" Name="Sloane Square" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="205" StatusDetails="">
+    <Station ID="205" Name="Snaresbrook" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="206" StatusDetails="">
+    <Station ID="206" Name="South Ealing" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="207" StatusDetails="">
+    <Station ID="207" Name="South Harrow" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="208" StatusDetails="">
+    <Station ID="208" Name="South Kensington" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="209" StatusDetails="">
+    <Station ID="209" Name="South Kenton" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="210" StatusDetails="">
+    <Station ID="210" Name="South Ruislip" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="211" StatusDetails="">
+    <Station ID="211" Name="South Wimbledon" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="212" StatusDetails="">
+    <Station ID="212" Name="South Woodford" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="213" StatusDetails="">
+    <Station ID="213" Name="Southfields" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="214" StatusDetails="">
+    <Station ID="214" Name="Southgate" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="215" StatusDetails="">
+    <Station ID="215" Name="Southwark" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="216" StatusDetails="">
+    <Station ID="216" Name="St. James's Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="217" StatusDetails="">
+    <Station ID="217" Name="St. John's Wood" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="218" StatusDetails="">
+    <Station ID="218" Name="St. Paul's" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="219" StatusDetails="">
+    <Station ID="219" Name="Stamford Brook" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="220" StatusDetails="">
+    <Station ID="220" Name="Stanmore" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="221" StatusDetails="">
+    <Station ID="221" Name="Stepney Green" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="222" StatusDetails="">
+    <Station ID="222" Name="Stockwell" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="223" StatusDetails="">
+    <Station ID="223" Name="Stonebridge Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="224" StatusDetails="">
+    <Station ID="224" Name="Stratford" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="225" StatusDetails="">
+    <Station ID="225" Name="Sudbury Hill" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="226" StatusDetails="">
+    <Station ID="226" Name="Sudbury Town" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="228" StatusDetails="">
+    <Station ID="228" Name="Swiss Cottage" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="229" StatusDetails="">
+    <Station ID="229" Name="Temple" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="230" StatusDetails="">
+    <Station ID="230" Name="Theydon Bois" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="231" StatusDetails="">
+    <Station ID="231" Name="Tooting Bec" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="232" StatusDetails="">
+    <Station ID="232" Name="Tooting Broadway" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="233" StatusDetails="">
+    <Station ID="233" Name="Tottenham Court Road" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="234" StatusDetails="">
+    <Station ID="234" Name="Tottenham Hale" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="235" StatusDetails="">
+    <Station ID="235" Name="Totteridge &amp; Whetstone" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="236" StatusDetails="">
+    <Station ID="236" Name="Tower Hill" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="237" StatusDetails="">
+    <Station ID="237" Name="Tufnell Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="238" StatusDetails="">
+    <Station ID="238" Name="Turnham Green" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="239" StatusDetails="">
+    <Station ID="239" Name="Turnpike Lane" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="240" StatusDetails="">
+    <Station ID="240" Name="Upminster" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="241" StatusDetails="">
+    <Station ID="241" Name="Upminster Bridge" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="242" StatusDetails="">
+    <Station ID="242" Name="Upney" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="243" StatusDetails="">
+    <Station ID="243" Name="Upton Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="244" StatusDetails="">
+    <Station ID="244" Name="Uxbridge" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="245" StatusDetails="">
+    <Station ID="245" Name="Vauxhall" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="246" StatusDetails="">
+    <Station ID="246" Name="Victoria" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="247" StatusDetails="">
+    <Station ID="247" Name="Walthamstow Central" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="248" StatusDetails="">
+    <Station ID="248" Name="Wanstead" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="250" StatusDetails="">
+    <Station ID="250" Name="Warren Street" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="251" StatusDetails="">
+    <Station ID="251" Name="Warwick Avenue" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="252" StatusDetails="">
+    <Station ID="252" Name="Waterloo" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="253" StatusDetails="">
+    <Station ID="253" Name="Watford" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="254" StatusDetails="">
+    <Station ID="254" Name="Wembley Central" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="255" StatusDetails="Step free access is not available from the car park to the ticket hall due to upgrade work. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.">
+    <Station ID="255" Name="Wembley Park" />
+    <Status ID="NS" CssClass="Closed" Description="No Step Free Access" IsActive="true">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="256" StatusDetails="">
+    <Station ID="256" Name="West Acton" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="257" StatusDetails="">
+    <Station ID="257" Name="West Brompton" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="258" StatusDetails="">
+    <Station ID="258" Name="West Finchley" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="259" StatusDetails="No step free access to the District, Hammersmith &amp; City and Jubilee lines due to planned maintenance work. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.">
+    <Station ID="259" Name="West Ham" />
+    <Status ID="NS" CssClass="Closed" Description="No Step Free Access" IsActive="true">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="260" StatusDetails="">
+    <Station ID="260" Name="West Hampstead" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="261" StatusDetails="">
+    <Station ID="261" Name="West Harrow" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="262" StatusDetails="">
+    <Station ID="262" Name="West Kensington" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="263" StatusDetails="">
+    <Station ID="263" Name="West Ruislip" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="264" StatusDetails="">
+    <Station ID="264" Name="Westbourne Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="265" StatusDetails="">
+    <Station ID="265" Name="Westminster" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="266" StatusDetails="">
+    <Station ID="266" Name="White City" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="267" StatusDetails="">
+    <Station ID="267" Name="Whitechapel" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="268" StatusDetails="">
+    <Station ID="268" Name="Willesden Green" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="269" StatusDetails="Step free access is not available for trains towards Stratford, Clapham Junction and Richmond, due to planned maintenance. Call our Travel Information Centre on 0843 222 1234 if you need help planning your journey.">
+    <Station ID="269" Name="Willesden Junction" />
+    <Status ID="NS" CssClass="Closed" Description="No Step Free Access" IsActive="true">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="270" StatusDetails="">
+    <Station ID="270" Name="Wimbledon" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="271" StatusDetails="">
+    <Station ID="271" Name="Wimbledon Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="272" StatusDetails="">
+    <Station ID="272" Name="Wood Green" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="273" StatusDetails="">
+    <Station ID="273" Name="Woodford" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="274" StatusDetails="">
+    <Station ID="274" Name="Woodside Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="284" StatusDetails="">
+    <Station ID="284" Name="Heathrow Terminal 5" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="285" StatusDetails="">
+    <Station ID="285" Name="Wood Lane" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="286" StatusDetails="">
+    <Station ID="286" Name="Abbey Road" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="287" StatusDetails="">
+    <Station ID="287" Name="Acton Central" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="288" StatusDetails="">
+    <Station ID="288" Name="All Saints" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="289" StatusDetails="">
+    <Station ID="289" Name="Anerley" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="290" StatusDetails="">
+    <Station ID="290" Name="Beckton" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="291" StatusDetails="">
+    <Station ID="291" Name="Beckton Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="292" StatusDetails="">
+    <Station ID="292" Name="Blackwall" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="293" StatusDetails="">
+    <Station ID="293" Name="Bow Church" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="294" StatusDetails="">
+    <Station ID="294" Name="Brockley" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="295" StatusDetails="">
+    <Station ID="295" Name="Brondesbury" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="296" StatusDetails="">
+    <Station ID="296" Name="Brondesbury Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="297" StatusDetails="">
+    <Station ID="297" Name="Bushey" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="298" StatusDetails="">
+    <Station ID="298" Name="Caledonian Road &amp; Barnsbury" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="299" StatusDetails="">
+    <Station ID="299" Name="Camden Road" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="300" StatusDetails="">
+    <Station ID="300" Name="Canonbury" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="301" StatusDetails="">
+    <Station ID="301" Name="Carpenders Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="302" StatusDetails="">
+    <Station ID="302" Name="Clapham Junction" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="303" StatusDetails="">
+    <Station ID="303" Name="Crossharbour" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="304" StatusDetails="">
+    <Station ID="304" Name="Crouch Hill" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="305" StatusDetails="">
+    <Station ID="305" Name="Crystal Palace" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="306" StatusDetails="">
+    <Station ID="306" Name="Custom House for ExCel" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="307" StatusDetails="">
+    <Station ID="307" Name="Cutty Sark for Maritime Greenwich" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="308" StatusDetails="">
+    <Station ID="308" Name="Cyprus" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="309" StatusDetails="">
+    <Station ID="309" Name="Dalston Junction" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="310" StatusDetails="">
+    <Station ID="310" Name="Dalston Kingsland" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="311" StatusDetails="">
+    <Station ID="311" Name="Deptford Bridge" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="312" StatusDetails="">
+    <Station ID="312" Name="Devons Road" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="313" StatusDetails="">
+    <Station ID="313" Name="East India" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="314" StatusDetails="">
+    <Station ID="314" Name="Elverson Road" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="315" StatusDetails="">
+    <Station ID="315" Name="Finchley Road &amp; Frognal" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="316" StatusDetails="">
+    <Station ID="316" Name="Forest Hill" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="317" StatusDetails="Step free access is not available to the westbound platform while we fix a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.">
+    <Station ID="317" Name="Gallions Reach" />
+    <Status ID="NS" CssClass="Closed" Description="No Step Free Access" IsActive="true">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="318" StatusDetails="">
+    <Station ID="318" Name="Gospel Oak" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="319" StatusDetails="">
+    <Station ID="319" Name="Greenwich" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="320" StatusDetails="">
+    <Station ID="320" Name="Hackney Central" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="321" StatusDetails="">
+    <Station ID="321" Name="Hackney Wick" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="322" StatusDetails="">
+    <Station ID="322" Name="Haggerston" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="323" StatusDetails="">
+    <Station ID="323" Name="Hampstead Heath" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="324" StatusDetails="">
+    <Station ID="324" Name="Harringay Green Lanes" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="325" StatusDetails="">
+    <Station ID="325" Name="Hatch End" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="326" StatusDetails="">
+    <Station ID="326" Name="Headstone Lane" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="327" StatusDetails="">
+    <Station ID="327" Name="Heron Quays" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="328" StatusDetails="">
+    <Station ID="328" Name="Homerton" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="329" StatusDetails="">
+    <Station ID="329" Name="Honor Oak Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="330" StatusDetails="Step free access is not available between the ticket hall and the southbound platform while we fix a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.">
+    <Station ID="330" Name="Hoxton" />
+    <Status ID="NS" CssClass="Closed" Description="No Step Free Access" IsActive="true">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="331" StatusDetails="">
+    <Station ID="331" Name="Imperial Wharf" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="332" StatusDetails="">
+    <Station ID="332" Name="Island Gardens" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="333" StatusDetails="">
+    <Station ID="333" Name="Kensal Rise" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="334" StatusDetails="">
+    <Station ID="334" Name="Kentish Town West" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="335" StatusDetails="">
+    <Station ID="335" Name="Kilburn High Road" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="336" StatusDetails="">
+    <Station ID="336" Name="King George V" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="337" StatusDetails="">
+    <Station ID="337" Name="Langdon Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="338" StatusDetails="">
+    <Station ID="338" Name="Lewisham" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="339" StatusDetails="">
+    <Station ID="339" Name="Leyton Midland Road" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="340" StatusDetails="">
+    <Station ID="340" Name="Leytonstone High Road" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="341" StatusDetails="">
+    <Station ID="341" Name="Limehouse" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="342" StatusDetails="">
+    <Station ID="342" Name="London City Airport" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="343" StatusDetails="">
+    <Station ID="343" Name="Mudchute" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="344" StatusDetails="">
+    <Station ID="344" Name="Norwood Junction" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="345" StatusDetails="">
+    <Station ID="345" Name="Penge West" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="346" StatusDetails="">
+    <Station ID="346" Name="Pontoon Dock" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="347" StatusDetails="Step free access is not available while we fix a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.">
+    <Station ID="347" Name="Poplar" />
+    <Status ID="NS" CssClass="Closed" Description="No Step Free Access" IsActive="true">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="348" StatusDetails="">
+    <Station ID="348" Name="Prince Regent" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="349" StatusDetails="">
+    <Station ID="349" Name="Pudding Mill Lane" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="350" StatusDetails="Step free access is not available for trains towards Canning Town due to upgrade work. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.">
+    <Station ID="350" Name="Royal Albert" />
+    <Status ID="NS" CssClass="Closed" Description="No Step Free Access" IsActive="true">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="351" StatusDetails="">
+    <Station ID="351" Name="Royal Victoria" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="352" StatusDetails="">
+    <Station ID="352" Name="South Acton" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="353" StatusDetails="">
+    <Station ID="353" Name="South Hampstead" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="354" StatusDetails="">
+    <Station ID="354" Name="South Quay" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="355" StatusDetails="">
+    <Station ID="355" Name="South Tottenham" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="356" StatusDetails="">
+    <Station ID="356" Name="Star Lane" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="357" StatusDetails="">
+    <Station ID="357" Name="Stratford High Street" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="358" StatusDetails="">
+    <Station ID="358" Name="Stratford International" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="359" StatusDetails="">
+    <Station ID="359" Name="Sydenham" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="360" StatusDetails="">
+    <Station ID="360" Name="Tower Gateway" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="361" StatusDetails="">
+    <Station ID="361" Name="Upper Holloway" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="362" StatusDetails="">
+    <Station ID="362" Name="Walthamstow Queen's Road" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="363" StatusDetails="">
+    <Station ID="363" Name="Wanstead Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="364" StatusDetails="">
+    <Station ID="364" Name="Watford High Street" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="365" StatusDetails="">
+    <Station ID="365" Name="Watford Junction" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="366" StatusDetails="">
+    <Station ID="366" Name="West Croydon" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="367" StatusDetails="">
+    <Station ID="367" Name="West India Quay" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="368" StatusDetails="">
+    <Station ID="368" Name="West Silvertown" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="369" StatusDetails="">
+    <Station ID="369" Name="Westferry" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="370" StatusDetails="">
+    <Station ID="370" Name="Woodgrange Park" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="371" StatusDetails="">
+    <Station ID="371" Name="Woolwich Arsenal" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="372" StatusDetails="">
+    <Station ID="372" Name="Clapham High Street" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="373" StatusDetails="">
+    <Station ID="373" Name="Denmark Hill" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="374" StatusDetails="">
+    <Station ID="374" Name="Peckham Rye" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="375" StatusDetails="">
+    <Station ID="375" Name="Queens Road Peckham" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="376" StatusDetails="">
+    <Station ID="376" Name="Wandsworth Road" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+  <StationStatus ID="377" StatusDetails="">
+    <Station ID="377" Name="Paddington (H&amp;C)" />
+    <Status ID="O" CssClass="Open" Description="Open" IsActive="false">
+      <StatusType ID="2" Description="Station" />
+    </Status>
+  </StationStatus>
+</ArrayOfStationStatus>

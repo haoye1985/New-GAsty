@@ -1,0 +1,516 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3A68C3C4-A45C-4BBF-87A4-F9656AC653C2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GAsty</RootNamespace>
+    <AssemblyName>GAsty</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\Binaries\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BruTile, Version=0.7.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\References\BruTile.dll</HintPath>
+    </Reference>
+    <Reference Include="BruTile.Desktop, Version=0.7.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\References\BruTile.Desktop.dll</HintPath>
+    </Reference>
+    <Reference Include="GeoAPI, Version=1.7.1.0, Culture=neutral, PublicKeyToken=a1a0da7def465678, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\References\GeoAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="GraphSharp">
+      <HintPath>..\..\References\GraphSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="GraphSharp.Controls">
+      <HintPath>..\..\References\GraphSharp.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="GraphSharp.Sample">
+      <HintPath>..\..\References\GraphSharp.Sample.exe</HintPath>
+    </Reference>
+    <Reference Include="Guifreaks.Common">
+      <HintPath>..\..\References\Guifreaks.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Guifreaks.NavigationBar">
+      <HintPath>..\..\References\Guifreaks.NavigationBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Guifreaks.NavigationBar.XmlSerializers">
+      <HintPath>..\..\References\Guifreaks.NavigationBar.XmlSerializers.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Contracts">
+      <HintPath>..\..\References\Microsoft.Contracts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Solver.Foundation, Version=3.0.2.10889, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\References\Microsoft.Solver.Foundation.dll</HintPath>
+    </Reference>
+    <Reference Include="NetTopologySuite, Version=1.13.0.0, Culture=neutral, PublicKeyToken=f580a05016ebada1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\References\NetTopologySuite.dll</HintPath>
+    </Reference>
+    <Reference Include="NodeGraphControl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\References\NodeGraphControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Pan.Docks, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\References\Pan.Docks.dll</HintPath>
+    </Reference>
+    <Reference Include="Pan.Optimisation, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\References\Pan.Optimisation.dll</HintPath>
+    </Reference>
+    <Reference Include="Pan.Utilities, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\References\Pan.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="ProjNet, Version=1.3.0.1, Culture=neutral, PublicKeyToken=a1f5bdcd9c6f5740, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\References\ProjNet.dll</HintPath>
+    </Reference>
+    <Reference Include="protobuf-net">
+      <HintPath>..\..\References\protobuf-net.dll</HintPath>
+    </Reference>
+    <Reference Include="QuickGraph">
+      <HintPath>..\..\References\QuickGraph.dll</HintPath>
+    </Reference>
+    <Reference Include="RibbonControlsLibrary">
+      <HintPath>..\..\References\RibbonControlsLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpMap, Version=1.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\References\SharpMap.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpMap.UI">
+      <HintPath>..\..\References\SharpMap.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Controls.Theming">
+      <HintPath>..\..\References\System.Windows.Controls.Theming.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Controls.Theming.ExpressionDark">
+      <HintPath>..\..\References\System.Windows.Controls.Theming.ExpressionDark.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WeifenLuo.WinFormsUI.Docking">
+      <HintPath>..\..\References\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+    <Reference Include="WPFExtensions">
+      <HintPath>..\..\References\WPFExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="WPFToolkit">
+      <HintPath>..\..\References\WPFToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph">
+      <HintPath>..\..\References\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connectors\ConnectorEnum.cs" />
+    <Compile Include="Connectors\IntensityConnector.cs" />
+    <Compile Include="Connectors\VulnerabilityConnector.cs" />
+    <Compile Include="Control\GraphControlHelper.cs" />
+    <Compile Include="Forms\MainForms\DockCompoundGraph.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForms\DockCompoundGraph.Designer.cs">
+      <DependentUpon>DockCompoundGraph.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForms\DockHazard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForms\DockHazard.Designer.cs">
+      <DependentUpon>DockHazard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForms\DockOperation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForms\DockOperation.Designer.cs">
+      <DependentUpon>DockOperation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForms\DockService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForms\DockService.Designer.cs">
+      <DependentUpon>DockService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForms\DockServiceChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForms\DockServiceChart.Designer.cs">
+      <DependentUpon>DockServiceChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SubForms\fmConnector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SubForms\fmConnector.Designer.cs">
+      <DependentUpon>fmConnector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SubForms\Form_GridReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SubForms\Form_GridReport.Designer.cs">
+      <DependentUpon>Form_GridReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SubForms\fmHazardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SubForms\fmHazardForm.Designer.cs">
+      <DependentUpon>fmHazardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SubForms\fmNetworkService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SubForms\fmNetworkService.Designer.cs">
+      <DependentUpon>fmNetworkService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SubForms\fmResultForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SubForms\fmResultForm.Designer.cs">
+      <DependentUpon>fmResultForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SubForms\Form_ModelSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SubForms\Form_ModelSetting.Designer.cs">
+      <DependentUpon>Form_ModelSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SubForms\Model Preparation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SubForms\Model Preparation.Designer.cs">
+      <DependentUpon>Model Preparation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SubForms\NetworkLoader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SubForms\NetworkLoader.Designer.cs">
+      <DependentUpon>NetworkLoader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SubForms\ProgressBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SubForms\ProgressBar.Designer.cs">
+      <DependentUpon>ProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Function\DataImporter.cs" />
+    <Compile Include="Function\LineCodeEnum.cs" />
+    <Compile Include="Function\TrainService.cs" />
+    <Compile Include="Geospatial\BufferAnalysis.cs" />
+    <Compile Include="Control\GraphSharpControl.xaml.cs">
+      <DependentUpon>GraphSharpControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Graph\Graph Core\GraphEnum.cs" />
+    <Compile Include="Hazard\Core\GeoHazardCell.cs" />
+    <Compile Include="Hazard\Operation\HazardBuilder.cs" />
+    <Compile Include="Hazard\Operation\HazardRenderingHelper.cs" />
+    <Compile Include="Hazard\Operation\HazardVisualiser.cs" />
+    <Compile Include="Hazard\Visualisation\HazardStyle.cs" />
+    <Compile Include="Helpers\ExcelHelper.cs" />
+    <Compile Include="Forms\SubForms\Form_LoadProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SubForms\Form_LoadProject.Designer.cs">
+      <DependentUpon>Form_LoadProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SubForms\fmServiceLoader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SubForms\fmServiceLoader.Designer.cs">
+      <DependentUpon>fmServiceLoader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SubForms\fmQueryWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SubForms\fmQueryWindow.Designer.cs">
+      <DependentUpon>fmQueryWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SubForms\FmFilePath.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SubForms\FmFilePath.Designer.cs">
+      <DependentUpon>FmFilePath.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SubForms\FmNetworkCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SubForms\FmNetworkCheck.Designer.cs">
+      <DependentUpon>FmNetworkCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Graph\GraphNetworkBuilder.cs" />
+    <Compile Include="Helpers\ListViewHelper.cs" />
+    <Compile Include="LayoutOperation.cs" />
+    <Compile Include="London Tube Operation\Operation\IndependentMatrix.cs" />
+    <Compile Include="London Tube Operation\Operation\LinkIndex.cs" />
+    <Compile Include="London Tube Operation\Operation\LinkMatrix.cs" />
+    <Compile Include="London Tube Operation\Operation\PassengerOD.cs" />
+    <Compile Include="London Tube Operation\Operation\PassengerODMatrix.cs" />
+    <Compile Include="London Tube Operation\Operation\StationODUnit.cs" />
+    <Compile Include="London Tube Operation\Operation\StationPassInfo.cs" />
+    <Compile Include="Network\Core\GeoService.cs" />
+    <Compile Include="Network\Core\NodeEnum.cs" />
+    <Compile Include="Network\Operation\NetworkBuilder.cs" />
+    <Compile Include="Network\Operation\NetworkDegree.cs" />
+    <Compile Include="Network\Service\ServiceEnum.cs" />
+    <Compile Include="Network\Service\ServiceRender.cs" />
+    <Compile Include="Network\Service\ServiceStyle.cs" />
+    <Compile Include="Network\Visualisation\NetworkStyle.cs" />
+    <Compile Include="Network\Visualisation\NetRiskLayer.cs" />
+    <Compile Include="Helpers\ShapeReader.cs" />
+    <Compile Include="Helpers\StringHelper.cs" />
+    <Compile Include="Network\Service\ServiceBuilder.cs" />
+    <Compile Include="Network\Service\ServiceLayer.cs" />
+    <Compile Include="OasisModel\Event_Definition.cs" />
+    <Compile Include="OasisModel\Geography_Definition.cs" />
+    <Compile Include="OasisModel\Model_Definition.cs" />
+    <Compile Include="OasisModel\ObjectModel.cs" />
+    <Compile Include="OasisModel\ResultOutput.cs" />
+    <Compile Include="OasisModel\Vulnerability_Definition.cs" />
+    <Compile Include="Serialisation\SerialisationHelper.cs" />
+    <Compile Include="Network\Service\ServiceEditor.cs" />
+    <Compile Include="Algorithm\ServiceModel.cs" />
+    <Compile Include="Function\TubeLineStatus.cs" />
+    <Compile Include="London Tube Operation\CSVReader.cs" />
+    <Compile Include="London Tube Operation\Operation\PassengerMode.cs" />
+    <Compile Include="London Tube Operation\Operation\StationInfo.cs" />
+    <Compile Include="London Tube Operation\StringConverter.cs" />
+    <Compile Include="London Tube Operation\TubeCore\PassengerHelper.cs" />
+    <Compile Include="London Tube Operation\TubeCore\TubeLine.cs" />
+    <Compile Include="London Tube Operation\LineEnum.cs" />
+    <Compile Include="London Tube Operation\TubeCore\TubeNetwork.cs" />
+    <Compile Include="London Tube Operation\TubeCore\TubeStation.cs" />
+    <Compile Include="London Tube Operation\TfLDataParser.cs" />
+    <Compile Include="London Tube Operation\TrainPrediction.cs" />
+    <Compile Include="London Tube Operation\TubeCore\TubeLink.cs" />
+    <Compile Include="London Tube Operation\TubeCore\TubeNetworkBuilder.cs" />
+    <Compile Include="London Tube Operation\TubeNetworkOperator.cs" />
+    <Compile Include="Utility\Automation.cs" />
+    <Compile Include="Algorithm\CoreModel.cs" />
+    <Compile Include="Helpers\ChartHelper.cs" />
+    <Compile Include="Forms\MainForms\DockMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForms\DockMain.Designer.cs">
+      <DependentUpon>DockMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForms\DockMap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForms\DockMap.Designer.cs">
+      <DependentUpon>DockMap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForms\DockChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForms\DockChart.Designer.cs">
+      <DependentUpon>DockChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForms\DockConsole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForms\DockConsole.Designer.cs">
+      <DependentUpon>DockConsole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForms\DockGraph.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForms\DockGraph.Designer.cs">
+      <DependentUpon>DockGraph.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OasisForms.cs" />
+    <Compile Include="Forms\MainForms\DockLink.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForms\DockLink.Designer.cs">
+      <DependentUpon>DockLink.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForms\DockNode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForms\DockNode.Designer.cs">
+      <DependentUpon>DockNode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configuration\Program.cs" />
+    <Compile Include="Graph\GraphHelper.cs" />
+    <Compile Include="Graph\FloatDataType.cs" />
+    <Compile Include="Graph\Graph Core\TransLink.cs" />
+    <Compile Include="Graph\Graph Core\TransportData.cs" />
+    <Compile Include="Graph\Graph Core\TransportDataType.cs" />
+    <Compile Include="Graph\GraphEditor.cs" />
+    <Compile Include="Graph\Graph Core\OPConnector.cs" />
+    <Compile Include="Graph\Graph Core\IOPConnector.cs" />
+    <Compile Include="Network\Visualisation\NetworkRender.cs" />
+    <Compile Include="Network\Core\GraphDesign.cs" />
+    <Compile Include="Network\Operation\NetworkEnum.cs" />
+    <Compile Include="Network\Core\GeoLink.cs" />
+    <Compile Include="Network\Core\GeoNetwork.cs" />
+    <Compile Include="Network\Core\GeoNode.cs" />
+    <Compile Include="Network\Operation\NetworkVisualier.cs" />
+    <Compile Include="Network\Operation\NetworkProjector.cs" />
+    <Compile Include="Network\Operation\NetworkEditor.cs" />
+    <Compile Include="Network\Operation\Projection.cs" />
+    <Compile Include="Algorithm\ParamGenerator.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utility\State.cs" />
+    <Compile Include="Graph\Graph Core\TransportNode.cs" />
+    <Compile Include="Helpers\TreeViewHelper.cs" />
+    <EmbeddedResource Include="Forms\MainForms\DockCompoundGraph.resx">
+      <DependentUpon>DockCompoundGraph.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForms\DockHazard.resx">
+      <DependentUpon>DockHazard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForms\DockOperation.resx">
+      <DependentUpon>DockOperation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForms\DockService.resx">
+      <DependentUpon>DockService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForms\DockServiceChart.resx">
+      <DependentUpon>DockServiceChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SubForms\fmConnector.resx">
+      <DependentUpon>fmConnector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SubForms\Form_GridReport.resx">
+      <DependentUpon>Form_GridReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SubForms\fmHazardForm.resx">
+      <DependentUpon>fmHazardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SubForms\Form_LoadProject.resx">
+      <DependentUpon>Form_LoadProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SubForms\fmResultForm.resx">
+      <DependentUpon>fmResultForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SubForms\fmServiceLoader.resx">
+      <DependentUpon>fmServiceLoader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SubForms\fmQueryWindow.resx">
+      <DependentUpon>fmQueryWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SubForms\FmFilePath.resx">
+      <DependentUpon>FmFilePath.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SubForms\FmNetworkCheck.resx">
+      <DependentUpon>FmNetworkCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForms\DockChart.resx">
+      <DependentUpon>DockChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForms\DockConsole.resx">
+      <DependentUpon>DockConsole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForms\DockGraph.resx">
+      <DependentUpon>DockGraph.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForms\DockLink.resx">
+      <DependentUpon>DockLink.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForms\DockMain.resx">
+      <DependentUpon>DockMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForms\DockMap.resx">
+      <DependentUpon>DockMap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForms\DockNode.resx">
+      <DependentUpon>DockNode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SubForms\fmNetworkService.resx">
+      <DependentUpon>fmNetworkService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SubForms\Form_ModelSetting.resx">
+      <DependentUpon>Form_ModelSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SubForms\Model Preparation.resx">
+      <DependentUpon>Model Preparation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SubForms\NetworkLoader.resx">
+      <DependentUpon>NetworkLoader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SubForms\ProgressBar.resx">
+      <DependentUpon>ProgressBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Configuration\App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Page Include="Control\GraphSharpControl.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
